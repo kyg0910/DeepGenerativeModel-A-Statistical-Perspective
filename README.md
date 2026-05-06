@@ -1,5 +1,5 @@
 ## Description
-This repository is for the pilot course on "Deep Generative Models: A Statistical Perspective"
+This repository is for the pilot course on "Deep Generative Models: A Statistical Perspective" at the Ulsan National Institute of Science and Technology (UNIST)
 
 ## Course Development Team Information
 **Program Developers:** Younggeun Kim and Jaejun Yoo 
