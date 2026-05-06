@@ -1,5 +1,6 @@
 ## Course Developing Team Information
 **Program Developers (PDs):** Younggeun Kim and Jaejun Yoo 
+
 **Teaching Assistants:** Jeongyun Ha, Sangyeob Yeo, and Gunha Hong
 
 ## Description
