@@ -1,6 +1,6 @@
-## Instructor Information
-**Instructor:** Younggeun Kim  
-**Email:** younggeun91 at unist dot ac dot kr
+## Course Developing Team Information
+**Program Developers (PDs):** Younggeun Kim and Jaejun Yoo 
+**Teaching Assistants:** Jeongyun Ha, Sangyeob Yeo, and Gunha Hong
 
 ## Description
 This repository is for the pilot course on "Deep Generative Models: A Statistical Perspective"
