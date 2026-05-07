@@ -6,6 +6,9 @@ This repository is for the pilot course on "Deep Generative Models: A Statistica
 
 **Teaching Assistants:** Jeongyun Ha, Sangyeob Yeo, and Gunha Hong
 
+## Office Hours
+1:00 PM -2:00 PM every Wednesday in Room 108-301-11 until the end of the pilot course (July 31st). Discussions on any topics related to generative models, not just the pilot course material, are welcome, so please feel free to stop by.
+
 ## Course Announcement
 05/06/2026: Uploaded [[group presentation]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/group%20presentation.pdf) and [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf)
 
