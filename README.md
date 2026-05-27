@@ -11,6 +11,8 @@ This repository is for the pilot course on "Deep Generative Models: A Statistica
 
 ## Course Announcement
 
+05/28/2026: Uploaded [[Chapter 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf)
+
 05/08/2026: Updated the member list for Group 3
 
 05/08/2026: Corrected and revised examples for latent variable models in [[Chapter 2_Random Variables (Part II).pdf]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%202_Random%20Variables%20(Part%20II).pdf) (see pages from 13 to 16 for details)
