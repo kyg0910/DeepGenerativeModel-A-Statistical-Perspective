@@ -11,7 +11,7 @@ This repository is for the pilot course on "Deep Generative Models: A Statistica
 
 ## Course Announcement
 
-05/28/2026: Uploaded [[Chapter 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf)
+05/28/2026: Uploaded [[Pilot Lecture 3_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%203_Learning%20Objective.pdf) and [[Chapter 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf)
 
 05/08/2026: Updated the member list for Group 3
 
