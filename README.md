@@ -23,3 +23,5 @@ This repository is for the pilot course on "Deep Generative Models: A Statistica
 
 05/06/2026: Uploaded [[group presentation]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/group%20presentation.pdf) and [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf)
 
+05/29/2026: Uploaded [Pilot Lecture 1 Recording](https://10.74.51.22:5055/sharing/eT8keYDAx)
+Please note that this recording can only be downloaded when connected to the school network.
