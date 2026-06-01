@@ -11,7 +11,7 @@ This repository is for the pilot course on "Deep Generative Models: A Statistica
 
 ## Course Announcement
 
-05/29/2026: Uploaded [Pilot Lecture 1 Recording](https://10.74.51.22:5055/sharing/B04YUVqoq) and the [English subtitle](https://10.74.51.22:5055/sharing/4SN7lUIHq).
+05/29/2026: Uploaded [[Pilot Lecture 1 Recording]](https://10.74.51.22:5055/sharing/B04YUVqoq) and the [[English subtitle]](https://10.74.51.22:5055/sharing/4SN7lUIHq).
 
 Please note that this recording can only be downloaded when connected to the school network. It is expired at December 31, 2060.
 
