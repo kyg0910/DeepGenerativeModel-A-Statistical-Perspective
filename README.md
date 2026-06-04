@@ -11,6 +11,8 @@ This repository is for the pilot course on "Deep Generative Models: A Statistica
 
 ## Course Announcement
 
+06/04/2026: Our course name has been finalized as *MTH345: Deep Generative Models: A Statistical Perspective*. I have updated all lecture notes accordingly.
+
 06/01/2026: Uploaded [[Pilot Lecture 1 Recording]](https://10.74.51.22:5055/sharing/4OiHOS1xD) and the [[Lecture 1 English subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo).
 
 To take recording with a subtitle, you should download two files(Each lecture recoding and corresponding subtitle) above. Once you turn on the video, you can select the subtitle file by press the 'Language and subtitle' button below, or just ctrl + L.
