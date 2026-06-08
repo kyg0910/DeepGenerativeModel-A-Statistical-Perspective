@@ -8,6 +8,7 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 
 ## Office Hours
 1:00 PM - 2:00 PM every Wednesday in Room 108-301-11 until the end of the pilot course (July 31st). Discussions on any topics related to generative models, not just the pilot course material, are welcome, so please feel free to stop by.
+* Due to a scheduling conflict with a workshop, I will not be holding office hours on Wednesday, June 17
 
 ## Course Announcement
 
