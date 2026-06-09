@@ -12,6 +12,8 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 
 ## Course Announcement
 
+06/09/2026: Uploaded [[Pilot Lecture 5_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%205_Learning%20Objective.pdf) and [[Chapter 7_Variational Autoencoder]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%207_Variational%20Autoencoder.pdf).
+
 06/07/2026: Uploaded [[Pilot Lecture 4_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%204_Learning%20Objective.pdf), [[Chapter 5_Autoregressive Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%205_Autoregressive%20Model.pdf), and [[Chapter 6_Energy-based Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%206_Energy-based%20Model.pdf).
 
 06/04/2026: Our course name has been finalized as *MTH345: Deep Generative Models: A Statistical Perspective*. We have updated all lecture notes accordingly.
