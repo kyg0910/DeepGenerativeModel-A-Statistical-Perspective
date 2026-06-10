@@ -12,6 +12,8 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 
 ## Course Announcement
 
+06/10/2026: Uploaded [[Pilot Lecture 6_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%206_Learning%20Objective.pdf) and [[Chapter 8_Generative Adversarial Network]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%208_Generative%20Adversarial%20Network.pdf).
+
 06/09/2026: Uploaded [[Pilot Lecture 5_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%205_Learning%20Objective.pdf) and [[Chapter 7_Variational Autoencoder]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%207_Variational%20Autoencoder.pdf).
 
 06/07/2026: Uploaded [[Pilot Lecture 4_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%204_Learning%20Objective.pdf), [[Chapter 5_Autoregressive Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%205_Autoregressive%20Model.pdf), and [[Chapter 6_Energy-based Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%206_Energy-based%20Model.pdf).
