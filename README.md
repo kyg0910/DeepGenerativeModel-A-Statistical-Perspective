@@ -54,6 +54,6 @@ Please note that this recording can only be downloaded when connected to the sch
 | Lecture | Video | Subtitle |
 | :---: | :---: | :--- |
 | Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) |
-| Week 2 | [[Video]](https://10.74.51.22:5055/sharing/6FlUYqaMY) |  |
-| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/O6CQ44Ip4) |  |
-| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/4OiHOS1xD), [[Video 2]](https://10.74.51.22:5055/sharing/OLtSvv0AI) |  |
+| Week 2 | [[Video]](https://10.74.51.22:5055/sharing/ax7u5BBDT) |  |
+| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/shwMYVW4a) |  |
+| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/EUwzzcf7k), [[Video 2]](https://10.74.51.22:5055/sharing/Lt34Sm7C8) |  |
