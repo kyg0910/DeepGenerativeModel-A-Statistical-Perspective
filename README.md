@@ -55,6 +55,8 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 
 ## Course Videos
 To take recording with a subtitle, you should download two files(Each lecture recoding and corresponding subtitle) above. Once you turn on the video, you can select the subtitle file by press the 'Language and subtitle' button below, or just ctrl + L.
+
+
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
 
 
