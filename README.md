@@ -49,3 +49,11 @@ Please note that this recording can only be downloaded when connected to the sch
 05/07/2026: Uploaded [[Chapter 2_Random Variables (Part II).pdf]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%202_Random%20Variables%20(Part%20II).pdf) and  [[Chapter 3_Statistical Estimation and Hypothesis Testing]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%203_Statistical%20Estimation%20and%20Hypothesis%20Testing.pdf)
 
 05/06/2026: Uploaded [[group presentation]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/group%20presentation.pdf) and [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf)
+
+## Course Videos
+| Lecture | Video | Subtitle |
+| :---: | :---: | :--- |
+| Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) |
+| Week 2 | [[Video]](https://10.74.51.22:5055/sharing/HZnKmF1d9) |  |
+| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/O6CQ44Ip4) |  |
+| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/4OiHOS1xD), [[Video 2]](https://10.74.51.22:5055/sharing/OLtSvv0AI) |  |
