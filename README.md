@@ -57,7 +57,7 @@ Please note that this recording can only be downloaded when connected to the sch
 
 ## Course Videos
 | Lecture | Video | Subtitle | Materials |
-| :---: | :---: | :--- | 
+| :---: | :---: | :---: | :--- |
 | Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) | 
 | Week 2 | [[Video]](https://10.74.51.22:5055/sharing/ax7u5BBDT) |  | [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf) |
 | Week 3 | [[Video]](https://10.74.51.22:5055/sharing/shwMYVW4a) |  | [[Pilot Lecture 3_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%203_Learning%20Objective.pdf), [[Chapter 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf) |
