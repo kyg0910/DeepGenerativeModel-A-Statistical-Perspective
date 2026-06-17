@@ -56,9 +56,9 @@ Please note that this recording can only be downloaded when connected to the sch
 </details>
 
 ## Course Videos
-| Lecture | Video | Subtitle |
-| :---: | :---: | :--- |
-| Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) |
-| Week 2 | [[Video]](https://10.74.51.22:5055/sharing/ax7u5BBDT) |  |
-| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/shwMYVW4a) |  |
-| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/EUwzzcf7k), [[Video 2]](https://10.74.51.22:5055/sharing/Lt34Sm7C8) |  |
+| Lecture | Video | Subtitle | Materials |
+| :---: | :---: | :--- | 
+| Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) | 
+| Week 2 | [[Video]](https://10.74.51.22:5055/sharing/ax7u5BBDT) |  | [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf) |
+| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/shwMYVW4a) |  | [[Pilot Lecture 3_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%203_Learning%20Objective.pdf), [[Chapter 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf) |
+| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/EUwzzcf7k), [[Video 2]](https://10.74.51.22:5055/sharing/Lt34Sm7C8) |  | [[Pilot Lecture 4_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%204_Learning%20Objective.pdf), [[Chapter 5_Autoregressive Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%205_Autoregressive%20Model.pdf), and [[Chapter 6_Energy-based Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%206_Energy-based%20Model.pdf) |
