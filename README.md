@@ -22,6 +22,16 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 | **Group 4** | Harnessing Low Dimensionality in Diffusion Models: From Theory to Practice |
 | **Group 5** | The Underlying Logic of Language Models |
 
+
+
+To take recording with a subtitle, you should download two files(Each lecture recoding and corresponding subtitle) above. Once you turn on the video, you can select the subtitle file by press the 'Language and subtitle' button below, or just ctrl + L.
+<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
+
+
+Please note that this recording can only be downloaded when connected to the school network. It is expired at June 30, 2060.
+<details>
+<summary>Notice</summary>
+<div markdown="1">
 06/10/2026: Uploaded [[Pilot Lecture 6_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%206_Learning%20Objective.pdf) and [[Chapter 8_Generative Adversarial Network]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%208_Generative%20Adversarial%20Network.pdf).
 
 06/09/2026: Uploaded [[Pilot Lecture 5_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%205_Learning%20Objective.pdf) and [[Chapter 7_Variational Autoencoder]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%207_Variational%20Autoencoder.pdf).
@@ -31,15 +41,6 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 06/04/2026: Our course name has been finalized as *MTH345: Deep Generative Models: A Statistical Perspective*. We have updated all lecture notes accordingly.
 
 06/01/2026: Uploaded [[Pilot Lecture 1 Recording]](https://10.74.51.22:5055/sharing/4OiHOS1xD) and the [[Lecture 1 English subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo).
-
-To take recording with a subtitle, you should download two files(Each lecture recoding and corresponding subtitle) above. Once you turn on the video, you can select the subtitle file by press the 'Language and subtitle' button below, or just ctrl + L.
-<img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
-
-
-Please note that this recording can only be downloaded when connected to the school network. It is expired at June 30, 2060.
-<details>
-<summary>Archive</summary>
-<div markdown="1">
 
 05/28/2026: Please select the 1st, 2nd, and 3rd choices for the tutorial topic your team wants to present, and submit them to the TAs by June 5th. Furthermore, due to scheduling constraints, we are looking for volunteers to present from 9:30 AM to 10:00 AM or from 12:00 PM to 12:30 PM during the final pilot class meeting. Please indicate your team's availability along with your topic preferences.
 
@@ -60,5 +61,5 @@ Please note that this recording can only be downloaded when connected to the sch
 | :---: | :---: | :---: | :--- |
 | Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) | 
 | Week 2 | [[Video]](https://10.74.51.22:5055/sharing/ax7u5BBDT) |  | [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf) |
-| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/shwMYVW4a) |  | [[Pilot Lecture 3_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%203_Learning%20Objective.pdf), [[Chapter 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf) |
-| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/EUwzzcf7k), [[Video 2]](https://10.74.51.22:5055/sharing/Lt34Sm7C8) |  | [[Pilot Lecture 4_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%204_Learning%20Objective.pdf), [[Chapter 5_Autoregressive Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%205_Autoregressive%20Model.pdf), and [[Chapter 6_Energy-based Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%206_Energy-based%20Model.pdf) |
+| Week 3 | [[Video]](https://10.74.51.22:5055/sharing/shwMYVW4a) |  | [[Pilot Lecture 3_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%203_Learning%20Objective.pdf), [[Ch. 4_Basics of Probabilistic Modelling]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf) |
+| Week 4 | [[Video 1]](https://10.74.51.22:5055/sharing/EUwzzcf7k), [[Video 2]](https://10.74.51.22:5055/sharing/Lt34Sm7C8) |  | [[Pilot Lecture 4_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%204_Learning%20Objective.pdf), [[Ch. 5_Autoregressive Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%205_Autoregressive%20Model.pdf), [[Ch.6_Energy-based Model]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%206_Energy-based%20Model.pdf) |
