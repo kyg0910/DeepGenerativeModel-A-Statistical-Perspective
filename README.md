@@ -54,6 +54,7 @@ Please note that this recording can only be downloaded when connected to the sch
 05/06/2026: Uploaded [[group presentation]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/group%20presentation.pdf) and [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf)
 </div>
 </details>
+
 ## Course Videos
 | Lecture | Video | Subtitle |
 | :---: | :---: | :--- |
