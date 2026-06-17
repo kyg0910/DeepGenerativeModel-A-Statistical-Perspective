@@ -37,6 +37,9 @@ To take recording with a subtitle, you should download two files(Each lecture re
 
 
 Please note that this recording can only be downloaded when connected to the school network. It is expired at June 30, 2060.
+<details>
+<summary>Archive</summary>
+<div markdown="1">
 
 05/28/2026: Please select the 1st, 2nd, and 3rd choices for the tutorial topic your team wants to present, and submit them to the TAs by June 5th. Furthermore, due to scheduling constraints, we are looking for volunteers to present from 9:30 AM to 10:00 AM or from 12:00 PM to 12:30 PM during the final pilot class meeting. Please indicate your team's availability along with your topic preferences.
 
@@ -49,7 +52,8 @@ Please note that this recording can only be downloaded when connected to the sch
 05/07/2026: Uploaded [[Chapter 2_Random Variables (Part II).pdf]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%202_Random%20Variables%20(Part%20II).pdf) and  [[Chapter 3_Statistical Estimation and Hypothesis Testing]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%203_Statistical%20Estimation%20and%20Hypothesis%20Testing.pdf)
 
 05/06/2026: Uploaded [[group presentation]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/group%20presentation.pdf) and [[Pilot Lecture 2_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%202_Learning%20Objective.pdf)
-
+</div>
+</details>
 ## Course Videos
 | Lecture | Video | Subtitle |
 | :---: | :---: | :--- |
