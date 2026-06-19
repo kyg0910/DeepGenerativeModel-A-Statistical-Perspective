@@ -70,4 +70,4 @@ Please note that this recording can only be downloaded when connected to the sch
 | Week 5 | Video | Subtitle |[[Pilot Lecture 5_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%205_Learning%20Objective.pdf)  <br>[[Chapter 7_Variational Autoencoder]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%207_Variational%20Autoencoder.pdf) |
 | Week 6 | Video | Subtitle | [[Pilot Lecture 6_Learning Objective]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/learning%20objective/Pilot%20Lecture%206_Learning%20Objective.pdf)  <br>[[Chapter 8_Generative Adversarial Network]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%208_Generative%20Adversarial%20Network.pdf) |
 | Week 7 | Video | Subtitle | |
-| Week 8 | Video | Subtitle | |
+| Week 8 | - | - | [[Group Presentation]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/group%20presentation.pdf) |
