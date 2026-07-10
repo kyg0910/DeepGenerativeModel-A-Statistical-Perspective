@@ -54,16 +54,15 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 </details>
 
 ## Course Videos
-There are two formats of course recording. 
-The first one is consist of two kind of files : lecture recording and corresponding subtitles.
-To play videos with a subtitle, you should download two files(Each lecture recoding and corresponding subtitle) below. Once you turn on the video, you can select the subtitle file by press the 'Language and subtitle' button below, or just ctrl + L.
-The second one is the subtitle-embedded version of the recording. It does not need seperated subtitle file, so once you open this kind of file, you can see subtitles without any additional controls. It is marked by 'Video(Embedded)', which can also be found on the download files below.
-
-
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
 
+Course recordings are available in two formats (currently provided via the campus network, and will be released on [[STAR-MOOC]](https://www.starmooc.kr/) later):
+1. Standard Video + Separate Subtitles
+Please download both the video and subtitle files. You can enable the subtitles by clicking the 'Language and subtitle' button or by using the shortcut Ctrl + L.
 
-Please note that this recording can only be downloaded when connected to the school network. 
+2. Subtitle-Embedded Video
+Subtitles are permanently embedded into the video file, so no additional setup or separate files are required.
+
 | Lecture | Video | Subtitle | Materials |
 | :---: | :---: | :---: | :--- |
 | Week 1 | [[Video]](https://10.74.51.22:5055/sharing/4OiHOS1xD) | [[Subtitle]](https://10.74.51.22:5055/sharing/82jp7pIVo) | [[Syllabus]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/Syllabus.pdf)<br>[[Chapter 0_Introduction]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%200_Introduction.pdf)<br>[[Chapter 1_Fundamentals of Probability Theory]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%201_Fundamentals%20of%20Probability%20Theory.pdf)<br>[[Chapter 2_Random Variables (Part I)]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Chapter%202_Random%20Variables%20(Part%20I).pdf)|
