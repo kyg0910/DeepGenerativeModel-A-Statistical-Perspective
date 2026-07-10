@@ -57,11 +57,10 @@ This repository is for the pilot course on *MTH345: Deep Generative Models: A St
 <img width="300" height="200" alt="image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
 
 Course recordings are available in two formats (currently provided via the campus network, and will be released on [[STAR-MOOC]](https://www.starmooc.kr/) later):
-1. Standard Video + Separate Subtitles
-Please download both the video and subtitle files. You can enable the subtitles by clicking the 'Language and subtitle' button or by using the shortcut Ctrl + L.
 
-2. Subtitle-Embedded Video
-Subtitles are permanently embedded into the video file, so no additional setup or separate files are required.
+<ins>1) Standard Video + Separate Subtitles</ins>: Please download both the video and subtitle files. You can enable the subtitles by clicking the 'Language and subtitle' button or by using the shortcut Ctrl + L.
+
+<ins>2) Subtitle-Embedded Video</ins>: Subtitles are permanently embedded into the video file, so no additional setup or separate files are required.
 
 | Lecture | Video | Subtitle | Materials |
 | :---: | :---: | :---: | :--- |
