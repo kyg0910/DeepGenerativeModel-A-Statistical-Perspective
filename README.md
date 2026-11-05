@@ -22,21 +22,21 @@ Useful related resources include:
 ## Lecture Topics
 | Module & Topic | Download Course Material | Key Reference |
 | :--- | :--- | :--- |
-| **Intro.** Course Introduction | [[Syllabus]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/Syllabus.pdf) [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%200_Introduction.pdf) | |
+| **Intro.** Course Introduction | [[Syllabus]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/Syllabus.pdf) [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%200_Introduction.pdf) | |
 | **M1. Foundations of Probabilistic Modelling** | | |
-| 1. Fundamentals of Probability Theory | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%201_Fundamentals%20of%20Probability%20Theory.pdf) | [1, 2, 3] |
-| 2. Random Variables | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%202_Random%20Variables.pdf) | [1, 2, 3] |
-| 3. Likelihood Maximization Principle | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%203_Likelihood%20Maximization%20Principle.pdf) | [3] |
-| 4. Basics of Probabilistic Modelling | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%204_Basics%20of%20Probabilistic%20Modelling.pdf) | [4, 5] |
+| 1. Fundamentals of Probability Theory | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%201_Fundamentals%20of%20Probability%20Theory.pdf) | [1, 2, 3] |
+| 2. Random Variables | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%202_Random%20Variables.pdf) | [1, 2, 3] |
+| 3. Likelihood Maximization Principle | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%203_Likelihood%20Maximization%20Principle.pdf) | [3] |
+| 4. Basics of Probabilistic Modelling | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%204_Basics%20of%20Probaabilistic%20Modelling.pdf) | [4, 5] |
 | **M2. Likelihood Ratio-based Generative Models** | | |
-| 5. Autoregressive Model | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%205_Autoregressive%20Model.pdf) | [6, 7] |
-| 6. Energy-based Model | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%206_Energy-based%20Model.pdf) | [7, 8] |
-| 7. Variational Autoencoder | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%207_Variational%20Autoencoder.pdf) | [7, 9, 10] |
-| 8. Generative Adversarial Network | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Chapter%208_Generative%20Adversarial%20Network.pdf) | [7, 11] |
+| 5. Autoregressive Model | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%205_Autoregressive%20Model.pdf) | [6, 7] |
+| 6. Energy-based Model | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%206_Energy-based%20Model.pdf) | [7, 8] |
+| 7. Variational Autoencoder | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%207_Variational%20Autoencoder.pdf) | [7, 9, 10] |
+| 8. Generative Adversarial Network | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%208_Generative%20Adversarial%20Network.pdf) | [7, 11] |
 | **M3. Generative Models with Other Statistical Distance** | | |
-| 9. Integral Probability Metric-based Approaches<br>10. Wasserstein Distance-based Approaches<br>11. Score-based Approaches | [[Lecture Note (M3: Ch. 9-11)]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Module%203_Generative%20Models%20with%20Other%20Statistical%20Distance.pdf) | [12]<br>[13, 14]<br>[15, 16] |
+| 9. Integral Probability Metric-based Approaches<br>10. Wasserstein Distance-based Approaches<br>11. Score-based Approaches | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Module%203_Generative%20Models%20with%20Other%20Statistical%20Distance.pdf) | [12]<br>[13, 14]<br>[15, 16] |
 | **Supplementary Material** | | |
-| PyTorch Implementation (Tutorial, VAE, and DCGAN) | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Supplementary_PyTorch_Implementation.pdf) [[Code (Tutorial)]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/code/IV.%20Preliminary%20Knowledge%20-%20Python%20and%20PyTorch.ipynb) [[Code (VAE)]](https://github.com/kyg0910/-STT997-Deep-Generative-Model/blob/main/code/STT997_VAE_MNIST.ipynb) | [17] |
+| PyTorch Implementation | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Supplementary%20Material_PyTorch%20Implementation.pdf) [[Code]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Supplementary%20Material_VAE%20Implementation.ipynb) | [17] |
 
 ## Course Videos (Pilot Course Archive)
 <img width="300" height="200" alt="Pilot Course Image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
