@@ -22,7 +22,7 @@ Useful related resources include:
 ## Lecture Topics
 | Module & Topic | Download Course Material | Key Reference |
 | :--- | :--- | :--- |
-| **Intro.** Course Introduction | [[Syllabus]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/Syllabus.pdf) [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%200_Introduction.pdf) | |
+| **Intro.** Course Introduction | [[Syllabus]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/Regular_Syllabus.pdf) [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%200_Introduction.pdf) | |
 | **M1. Foundations of Probabilistic Modelling** | | |
 | 1. Fundamentals of Probability Theory | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%201_Fundamentals%20of%20Probability%20Theory.pdf) | [1, 2, 3] |
 | 2. Random Variables | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Chapter%202_Random%20Variables.pdf) | [1, 2, 3] |
