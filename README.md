@@ -37,8 +37,7 @@ Useful related resources include:
 | 9. Integral Probability Metric-based Approaches<br>10. Wasserstein Distance-based Approaches<br>11. Score-based Approaches | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Regular%20Module%203_Generative%20Models%20with%20Other%20Statistical%20Distance.pdf) | [12]<br>[13, 14]<br>[15, 16] |
 | **Supplementary & Exam Materials** | | |
 | PyTorch Implementation | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Supplementary%20Material_PyTorch%20Implementation.pdf) [[Code]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Supplementary%20Material_VAE%20Implementation.ipynb) | [17] |
-| Sample Exam | [[Sample Midterm]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/exam/Sample%20Midterm.pdf) | |
-| Sample Exam | [[Sample Final]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/exam/Sample%20Final.pdf) | |
+| Sample Exams | [[Sample Midterm]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/exam/Sample%20Midterm.pdf) [[Sample Final]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/exam/Sample%20Final.pdf) | |
 
 ## Course Videos (Pilot Course Archive)
 <img width="300" height="200" alt="Pilot Course Image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
