@@ -38,6 +38,7 @@ Useful related resources include:
 | **Supplementary & Exam Materials** | | |
 | PyTorch Implementation | [[Lecture Note]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/lecture%20notes/Supplementary%20Material_PyTorch%20Implementation.pdf) [[Code]](https://github.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/blob/main/lecture%20notes/Supplementary%20Material_VAE%20Implementation.ipynb) | [17] |
 | Sample Exam | [[Sample Midterm]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/exam/Sample%20Midterm.pdf) | |
+| Sample Exam | [[Sample Final]](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/exam/Sample%20Final.pdf) | |
 
 ## Course Videos (Pilot Course Archive)
 <img width="300" height="200" alt="Pilot Course Image" src="https://github.com/user-attachments/assets/76409f6c-543d-4ff3-aea9-85f625cd1dfc" />
