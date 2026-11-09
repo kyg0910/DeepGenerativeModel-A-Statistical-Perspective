@@ -3,7 +3,7 @@
 ![Course Banner](https://raw.githubusercontent.com/kyg0910/DeepGenerativeModel-A-Statistical-Perspective/main/fig/representation_learning_lab_intro.png)
 
 ## Instructor & Course Development Team Information
-**Instructor:** Young-geun Kim (Department of Mathematical Sciences, UNIST)  
+**Instructor:** Dr. Young-geun Kim (Department of Mathematical Sciences, UNIST)  
 **Homepage:** [https://kyg0910.github.io/](https://kyg0910.github.io/)  
 **Program Developers:** Drs. Young-geun Kim and Jaejun Yoo  
 **Teaching Assistants:** Jeongyun Ha, Sangyeop Yeo, and Gunha Hong  
